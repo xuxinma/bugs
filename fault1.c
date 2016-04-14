@@ -11,6 +11,6 @@ void foo(int* A, int N)
 int main()
 {
   int A[]={3,1,4,2,5};
-  foo (A, sizeof(A)/sizeof(int));
+  foo (A, 5);
   return 0;
 }

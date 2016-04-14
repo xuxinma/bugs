@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# Auto saved files
+*~
